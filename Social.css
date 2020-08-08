@@ -1,0 +1,87 @@
+p, li{
+    text-decoration: none;
+    font-size: 1rem;
+    letter-spacing: normal;
+    word-spacing: normal;
+    padding: 5px 0;
+    margin: 0;
+}
+
+.content li{
+    color: blue;
+    padding-top: 1rem;
+}
+
+
+/* .content li:hover{
+    color: white;
+    background-color: black;
+    padding-left: 1rem;
+} */
+ 
+.content p{
+    font-size: medium;
+    border-right: 1px solid grey;
+    padding-right: 2rem;
+    padding-top: 1rem;
+}
+            /* ======================== */
+
+.content h5{
+    padding-left: 2rem;
+    font-size: 1.3rem;
+    font-weight: normal;
+}
+
+
+.content ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 1rem 0 0 1.3rem;
+    /* border-left: 1px solid black; */
+    /* padding-left: 2rem; */
+}
+
+
+/* .content{
+    width: 70%;
+    margin: 0 auto;
+} */
+
+/* .content-heading{
+    text-align: center;
+    padding: 8rem 0 4rem 0;
+} */
+
+
+               /* ===== Start of main-slider ===== */
+
+/* .main-slider {
+    width: 95%;
+    margin: auto;
+    position: relative;
+    z-index: 100;
+    left: 0;
+    right: 0;
+    top: 80rem;
+
+}
+
+
+.carousel-item img {
+    height: 600px;
+    border-radius: 10px;
+}  */
+
+               /* ===== End of main slider ===== */
+
+.content-sub-sub-heading{
+    font-size: large;
+    text-align: center;
+}
+
+header{
+    background-image: url('Images/Social/olympics-opening-ceremony_0.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}

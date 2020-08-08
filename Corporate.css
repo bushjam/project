@@ -1,0 +1,36 @@
+/* .corporate-content{
+    width: 70%;
+    margin: 0 auto;
+    padding: 8rem 0;
+}
+
+.corporate-heading{
+    padding-bottom: 8rem;
+    text-align: center;
+} */
+
+               /* ===== Start of main-slider ===== */
+
+               /* .main-slider {
+                   width: 95%;
+                   margin: auto;
+                   z-index: 100;
+                   position: relative;
+                   left: 0;
+                   right: 0;
+
+               }
+
+
+               .carousel-item img {
+                   height: 600px;
+                   border-radius: 10px;
+               } */
+
+               /* ===== End of main slider ===== */
+
+header{
+    background-image: url('Images/Corporate/seminars-picture.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
